@@ -64,4 +64,6 @@
    (any_sign_filter
       (window 0.5)
       (num_frames 12)
-      (threshold 0.93)))
+      (threshold 0.93)
+   )
+)
